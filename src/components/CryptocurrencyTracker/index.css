@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.app-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  min-height: 100vh;
+  background-color: #000000;
+}
+.responsive-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+.heading {
+  font-family: 'Roboto';
+  color: #00e7ff;
+  font-size: 40px;
+  font-weight: bold;
+}
+.image {
+  width: 700px;
+}

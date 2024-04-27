@@ -1,0 +1,28 @@
+/* Write your CSS code here */
+.cryptoList {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  color: white;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: 'Roboto';
+  padding-left: 50px;
+  padding-right: 50px;
+}
+.logo-type-container {
+  display: flex;
+  align-items: center;
+}
+.logo {
+  width: 30px;
+  height: 30px;
+  margin-right: 10px;
+}
+.usd-euro-value-container {
+  display: flex;
+  width: 200px;
+  justify-content: space-between;
+  align-items: center;
+}
